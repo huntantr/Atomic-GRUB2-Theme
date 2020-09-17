@@ -1,6 +1,6 @@
 # Custom
-[ ] change to large icons with text below
-[ ] move submenus
+[ ] change to large icons with text below  
+[ ] move submenus  
 
 # <a href="https://www.lfsystems.com.co"><img src="https://cn.pling.com/img/d/1/9/e/34ca796826e3886a5232d81f1b598e1ccdc4.png" width="80" height="80"></a> <a href="https://www.gnome-look.org/p/1200710/">Atomic-GRUB2-Theme</a>
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
